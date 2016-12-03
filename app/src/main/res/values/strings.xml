@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_message">There was an error !</string>
+    <string name="dialog_positive_response">OK</string>
+    <string name="network_failure">Network Unavailable</string>
+    <string name="google_maps_key">AIzaSyBxveowvsD4WP2jZwblPZaXNuTxRn1bhAw</string>
+</resources>
